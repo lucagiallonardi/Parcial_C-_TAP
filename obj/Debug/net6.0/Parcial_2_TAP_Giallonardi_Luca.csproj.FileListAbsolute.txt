@@ -1,0 +1,14 @@
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\bin\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.exe
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\bin\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.deps.json
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\bin\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.runtimeconfig.json
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\bin\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.dll
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\bin\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.pdb
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.AssemblyInfoInputs.cache
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.AssemblyInfo.cs
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.csproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.dll
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\refint\Parcial_2_TAP_Giallonardi_Luca.dll
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.pdb
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\Parcial_2_TAP_Giallonardi_Luca.genruntimeconfig.cache
+C:\Users\Luca\source\repos\Parcial_2_TAP_Giallonardi_Luca\obj\Debug\net6.0\ref\Parcial_2_TAP_Giallonardi_Luca.dll

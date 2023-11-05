@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parcial_2_TAP_Giallonardi_Luca/1.0.0": {
+        "runtime": {
+          "Parcial_2_TAP_Giallonardi_Luca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_2_TAP_Giallonardi_Luca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
